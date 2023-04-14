@@ -5,4 +5,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jy4058350)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jy4058350](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/Jy4058350=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
